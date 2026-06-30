@@ -11,7 +11,7 @@ The website focuses on clean design, fast performance, SEO optimization, and an 
 - Responsive Design
 - SEO Optimization
 - Performance Optimization
-- 🛠️ Technologies Used
+- ## 🛠️ Technologies Used
 
 - WordPress
 - Kadence Theme
