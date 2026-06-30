@@ -28,4 +28,4 @@ The website focuses on clean design, fast performance, SEO optimization, and an 
 
 ### 🏠 Homepage
 
-![Homepage](homepage.png)
+![Homepage](Homepage.png)
