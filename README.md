@@ -24,4 +24,8 @@ The website focuses on clean design, fast performance, SEO optimization, and an 
 - SEO Friendly
 - Clean UI
 - Mobile Optimized
+## 📷 Screenshots
 
+### 🏠 Homepage
+
+![Homepage](homepage.png)
